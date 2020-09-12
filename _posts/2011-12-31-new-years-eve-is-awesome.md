@@ -1,5 +1,4 @@
 ---
-permalink: /about/
 ---
 
 ## ---- Hello first ----

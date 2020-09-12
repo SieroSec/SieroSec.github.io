@@ -2,6 +2,6 @@
 
 ## how are you?
 
-- [This is name of the link](http://)
+- [About link](/about/)
 
 Here should be some links to the latest and greatest posts...
